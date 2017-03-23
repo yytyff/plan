@@ -3,22 +3,15 @@
 
 　　是指用人单位给予劳动者的几种保障性待遇的合称，包括养老保险、医疗保险、失业保险、工伤保险和生育保险，还有住房公积金。
 　　养老保险、医疗保险和失业保险，这三种险和住房公积金是由企业和个人共同缴纳的保费，工伤保险和生育保险完全是由企业承担的，个人不需要缴纳。缴纳社会保险是国家强制性的要求，公积金，是根据企业效益而定，效益不好，可以自己确定比例，不属于社会保险范畴。
- ####   2017年成都市五险一金缴纳比例
+![比例.png](http://upload-images.jianshu.io/upload_images/4626319-2e4392fd75d5d865.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-|缴纳项目 |个人缴费比例% |单位缴费比例%
-|--|--|
-|养老保险|8%|20%|
-|医疗保险|2%|6－10%|
-|失业保险|0.5－1%|1.50%|
-|工伤保险| | 0.5－1.2%|
-|生育保险||0.80%|
-|公积金|10－12%|10－12%|
 详情请点开下面链接：
 ##### [社保](http://baike.baidu.com/item/%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9/73529?fromtitle=%E7%A4%BE%E4%BF%9D&fromid=558563&type=syn)
 ##### [2017年成都五险一金最低标准规定](http://kaoshi.yjbys.com/gongwuyuan/shizhengshenlun/shishizhengye/481443.html)
 #### 2.医疗保险的报销
 对于年轻人来说，工伤和失业涉及的很少，你生了小孩，应该享受了生育保险，养老保险还很遥远，当然最重要的就是医疗保险这块了。
 ![社保报销比例.png](http://upload-images.jianshu.io/upload_images/4626319-f5f02cfcab9b9450.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 详情请点开下面链接：
 ##### [成都2016医保报销比例](http://www.pincai.com/group/680605.htm)
 ##### [成都医保报销比例](http://chengdu.chashebao.com/yiliao/12608.html)
