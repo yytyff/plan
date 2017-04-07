@@ -42,7 +42,7 @@ var array = [5,2,4,6,8]
 2，将没见过的问题转化为见过的问题
 
 
-https://visualgo.net/
+演示网站：https://visualgo.net/
 
 
 #### 1，冒泡排序：
@@ -56,9 +56,12 @@ https://visualgo.net/
 
 3，缓存失效
 
+http://js.jirengu.com/madazogawe/1/edit
 
 #### 2，选择排序：
 最矮到前面来
+
+http://js.jirengu.com/xeha/2/edit
 
 #### 3，插入排序：
 起牌算法
@@ -66,7 +69,7 @@ https://visualgo.net/
 #### 4，归并排序：用了递归的算法
 领导算法
 
-### 5，快速排序：我前面的都比我矮，我后面的都比我高
+#### 5，快速排序：我前面的都比我矮，我后面的都比我高
 如果排好了的话，再排就会出现排序次数过多
 
 #### 6，随机快排
